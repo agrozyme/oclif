@@ -2,6 +2,47 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.0.1](https://github.com/oclif/oclif/compare/v3.0.0...v3.0.1) (2022-04-18)
+
+
+### Bug Fixes
+
+* remove outdated code ([#866](https://github.com/oclif/oclif/issues/866)) ([e3f60a3](https://github.com/oclif/oclif/commit/e3f60a3109502bc59d1fbd71a3fbbd3668dcd3eb))
+
+## [3.0.0](https://github.com/oclif/oclif/compare/v2.6.3...v3.0.0) (2022-04-13)
+
+
+### ⚠ BREAKING CHANGES
+
+* Add arch to macos pkg file (#849)
+
+### Features
+
+* Add arch to macos pkg file ([#849](https://github.com/oclif/oclif/issues/849)) ([656d529](https://github.com/oclif/oclif/commit/656d52909c0ae1c4b66b7b3eaada9916d5871e4a))
+
+### [2.6.3](https://github.com/oclif/oclif/compare/v2.6.2...v2.6.3) (2022-03-31)
+
+
+### Bug Fixes
+
+* update oclif/core ([7e86036](https://github.com/oclif/oclif/commit/7e86036b4e673003ad6226852260c929d62a1c39))
+
+### [2.6.2](https://github.com/oclif/oclif/compare/v2.6.1...v2.6.2) (2022-03-31)
+
+
+### Bug Fixes
+
+* revert building mac m1 packages, wait for PR [#849](https://github.com/oclif/oclif/issues/849) ([#855](https://github.com/oclif/oclif/issues/855)) ([e5b68af](https://github.com/oclif/oclif/commit/e5b68af8510b0419ec48d76087ed0bec61fc81ad))
+
+### [2.6.1](https://github.com/oclif/oclif/compare/v2.6.0...v2.6.1) (2022-03-23)
+
+## [2.6.0](https://github.com/oclif/oclif/compare/v2.5.0...v2.6.0) (2022-03-14)
+
+
+### Features
+
+* Add support to build darwin-arm64 for `oclif pack macos` ([#847](https://github.com/oclif/oclif/issues/847)) ([61a96c2](https://github.com/oclif/oclif/commit/61a96c2a1c435f5abce8c2348cf7756a4b997269))
+
 ## [2.5.0](https://github.com/oclif/oclif/compare/v2.4.5...v2.5.0) (2022-02-24)
 
 
